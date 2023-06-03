@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Ejercicios estructuras de control.iml" filepath="$PROJECT_DIR$/.idea/Ejercicios estructuras de control.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios estructuras de control.iml" filepath="$PROJECT_DIR$/Ejercicios estructuras de control.iml" />
+>>>>>>> 2edec1a29d3ec974fb89b8a2c6abec588f1e85e3
     </modules>
   </component>
 </project>
